@@ -1,14 +1,4 @@
-# AutoSurvey (NeurIPS 2024)
-<p align="center">
-   <a href="https://arxiv.org/abs/2406.10252">AutoSurvey: Large Language Models Can Automatically Write Surveys</a>
-</p>
-<p align="center">
-  <strong></strong><br>
-  Yidong Wang<sup>1,2∗</sup>, Qi Guo<sup>2,3∗</sup>, Wenjin Yao<sup>2</sup>, Hongbo Zhang<sup>1</sup>, Xin Zhang<sup>4</sup>, Zhen Wu<sup>3</sup>, Meishan Zhang<sup>4</sup>, Xinyu Dai<sup>3</sup>, Min Zhang<sup>4</sup>, Qingsong Wen<sup>5</sup>, Wei Ye<sup>2†</sup>, Shikun Zhang<sup>2†</sup>, Yue Zhang<sup>1†</sup>
-  <br><br>
-  <strong></strong><br>
-  <sup>1</sup>Westlake University, <sup>2</sup>Peking University, <sup>3</sup>Nanjing University, <sup>4</sup>Harbin Institute of Technology, Shenzhen, <sup>5</sup>Squirrel AI
-</p>
+
 
 ## Introduction
 
